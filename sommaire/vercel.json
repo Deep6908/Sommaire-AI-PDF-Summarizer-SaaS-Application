@@ -1,5 +1,4 @@
 {
-    "rootDirectory": "sommaire",
     "functions": {
         "app/**/*": {
             "maxDuration": 60
