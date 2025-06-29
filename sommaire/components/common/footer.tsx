@@ -41,7 +41,7 @@ export function Footer() {
           className="flex flex-col items-center gap-2 px-3 py-1 rounded-md hover:bg-rose-100 transition"
         >
           <img
-            src="/vercel.svg"
+            src="/deeptangshu.jpg"
             alt="Deeptangshu Paul"
             className="w-12 h-12 rounded-full border border-rose-200 shadow-sm bg-white object-cover"
           />
